@@ -1,2 +1,2 @@
-# prueba
+# mi primer readme
 apremdiendo git hub
